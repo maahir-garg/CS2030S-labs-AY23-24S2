@@ -1,0 +1,4 @@
+*.class
+cs2030s/fp/*.class
+.*.sw?
+cs2030s/fp/.*.sw?

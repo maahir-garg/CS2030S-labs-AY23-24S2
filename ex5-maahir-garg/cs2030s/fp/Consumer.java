@@ -1,0 +1,13 @@
+/**
+ * CS2030S Exercise 5
+ * AY23/24 Semester 2
+ *
+ * @author Maahir Garg (12A)
+ */
+
+package cs2030s.fp;
+
+public interface Consumer<T> {
+  void consume(T t);
+}
+
