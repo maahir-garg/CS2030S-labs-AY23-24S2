@@ -4,6 +4,7 @@ Welcome to the CS2030S Lab Exercises repository! This repository contains the so
 
 ## Table of Contents
 
+- [Introduction](#introduction)
 - [Course Overview](#course-overview)
 - [Exercises](#exercises)
 - [Usage](#usage)
