@@ -26,7 +26,7 @@ The repository is structured with folders representing each lab exercise from th
 
 ## Usage
 
-To view the solutions, navigate to the respective problem set directory, open the problem statement PDF, and review the solution files in the `src` folder. Each solution is written in Java.
+To view the solutions, navigate to the respective problem set directory. Each solution is written in Java.
 
 ## Contributing
 
